@@ -1,7 +1,7 @@
-A collection management application, built in Python, using the Tkinter GUI framework.
+A Collection Management application, built in Python, using the Tkinter GUI framework.
 
-The application uses the Pandas library. It can be installed either 
-throught the "requirements.txt", or separately, using pip.
+The application uses the Pandas dataframe library. 
+To install Pandas, open a terminal and run: "pip install pandas".
 
 
 How to use:
