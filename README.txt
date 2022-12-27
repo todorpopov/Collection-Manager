@@ -1,14 +1,7 @@
-==================================
-|Collection Managment Application|
-==================================
-|    by: todorpopov02            |
-==================================
+A collection management application, built in Python, using the Tkinter GUI framework.
 
-	In order to work properly, "main.py" has to be in a directory along with 
-"file_books.csv", "file_games.csv" and "file_movies.csv".
-
-	The application uses the Pandas Library. It can be installed either 
-throught the "requirements.txt", or separately.
+The application uses the Pandas library. It can be installed either 
+throught the "requirements.txt", or separately, using pip.
 
 
 How to use:
